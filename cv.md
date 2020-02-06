@@ -22,6 +22,6 @@ jQuery
 My development experience is shown in the "CODE EXAMPLES" section. this is a site of my photos that I made myself  
 ### EDUCATION
 [Physics faculty of BSU](http://physics.bsu.by/ru)  
-
+[HTMLACADEMY online school](https://htmlacademy.ru/profile/chesyawhite)
 ### ENGLISH LEVEL
 Pre-Intermediate (A2)
