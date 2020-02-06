@@ -21,7 +21,7 @@ jQuery
 ### EXPERIENCE
 My development experience is shown in the "CODE EXAMPLES" section. this is a site of my photos that I made myself  
 ### EDUCATION
-
+[Physics faculty of BSU](http://physics.bsu.by/ru)  
 
 ### ENGLISH LEVEL
 Pre-Intermediate (A2)
