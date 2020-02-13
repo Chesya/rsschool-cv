@@ -1,1 +1,1 @@
-https://chesya.github.io/rsschool-cv/index.html
+https://chesya.github.io/rsschool-cv/
