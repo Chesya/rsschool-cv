@@ -3,8 +3,9 @@
     font-family: 'Roboto', sans-serif;   
 }
 .wrapper {
+    display: flex;
+    flex-direction: column;
     max-width: 1024px;
-    min-width: 1024px;
     min-height: 100vh;
     margin: 0 auto;
     background: #d2cfbf;
@@ -16,8 +17,6 @@ ul li {
     padding: 0 0 2% 0;
 }
 .header {
-    display: flex;
-    justify-content: space-between;
     padding: 5%;
     font-family: 'Roboto', sans-serif;   
 }
@@ -29,18 +28,30 @@ ul li {
 }
 .header h1 {
     font-weight: bold;
-    font-size: 29px;
+    font-size: 28px;
 }
 .header h2 {
     font-weight: bold;
-    font-size: 25px;
+    font-size: 24px;
     
+}
+.header_logo{
+    float: left;
 }
 .header_logo img{
     border-radius: 50%;
 }
+.header_info{
+    float: left;
+    margin-left: 5%;
+}
+.navbar {
+    float: left;
+    margin-left: 5%;
+}
 .main {
     padding: 0 5%;
+    margin-left: 5%;
 }
 .main_info ul {
     margin-left: 4%;
@@ -49,14 +60,14 @@ ul li {
     list-style: outside;
 }
 .main h2  {
-    font-size: 25px;
+    font-size: 24px;
     font-weight: bold;  
     padding-bottom: 2%; 
     text-transform: uppercase;
     
 }
 .main h3{
-    font-size: 21px;
+    font-size: 20px;
     font-weight: bold;
     margin-bottom: 1%;
     font-style: italic; 
