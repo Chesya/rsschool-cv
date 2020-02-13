@@ -1,1 +1,1 @@
-# https://chesya.github.io/rsschool-cv/cv
+https://chesya.github.io/rsschool-cv/
